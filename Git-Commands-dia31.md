@@ -27,6 +27,9 @@ git pull
 git merge  
 
 **Criando Branchs**  
-git checkout -b NomeDaBranch
+git checkout -b NameBranch
 
-### Editado por R.S. em **dia 29 às 18h**
+**Netify**  
+https://app.netlify.com/sites/distracted-edison-84a716.netlify.app  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60321456-235e-477b-87af-243532a60461/deploy-status)](https://app.netlify.com/sites/distracted-edison-84a716/deploys)
+### Editado por R.S. em **dia 31/07 às 20h**
