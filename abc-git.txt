@@ -60,3 +60,21 @@
 ## Exemplo Clonando Repository
 
 git clone https://github.com/fabricadeprogramador/T31-team.git
+
+===============================================================
+#AULA 09 - 07/07/2020
+PS C:\t31\t31-equipe\t31-projeto2\calc-imc> git push origin versao2       
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 465 bytes | 155.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote: 
+remote: Create a pull request for 'versao2' on GitHub by visiting:
+remote:      https://github.com/rodrigospeller/t31-calc-imc/pull/new/versao2
+remote:
+To https://github.com/rodrigospeller/t31-calc-imc.git
+ * [new branch]      versao2 -> versao2
+PS C:\t31\t31-equipe\t31-projeto2\calc-imc> 
