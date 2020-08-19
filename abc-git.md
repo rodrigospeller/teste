@@ -26,6 +26,7 @@
 
 - git remote add origin https://github.com/rodrigospeller/t3st3s.git
 - git remote -v // verifica se existe este servidor remoto
+- git remote set-url origin https://github.com/youruser/yourrepository.git // alterar URL de repositório
 
 - git clone // baixa clone de projeto online
 - git push // baixa atualizações

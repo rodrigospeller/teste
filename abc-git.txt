@@ -78,3 +78,47 @@ remote:
 To https://github.com/rodrigospeller/t31-calc-imc.git
  * [new branch]      versao2 -> versao2
 PS C:\t31\t31-equipe\t31-projeto2\calc-imc> 
+
+============================================
+
+#Na primeira vez eu criando o repositororio
+cd "nome da pasta"
+git config user.name "Your Name"
+git config user.email "youremail@yourdomain.com"
+git init 
+
+#Na primeira vez
+#Vinculo ao git remoto (site como github.com, gitlab.com)
+git remote add origin https://github.com/youruser/yourrepository.git
+git remote -v
+
+#Alterar URL de repositório
+git remote set-url origin https://github.com/youruser/yourrepository.git
+
+#Ver situacao
+git log
+git status
+
+#Novo trabalho
+git add .
+git commit -m "Arquivos Iniciais da Calculadora"
+git push origin master
+
+
+#Primeira vez Clonando um repository de alguem
+git clone https://github.com/fabricadeprogramador/T31-team.git
+git pull
+
+#Resolvendo conflitos
+git merge
+
+#Criando Branchs
+git checkout -b nomeDaBranch
+
+#Monstrando todas branchs existentes e a selecionada
+git branch
+
+#baixar todas as branchs
+git fetch origin --all 
+
+git pull origin nomeDaBranch
